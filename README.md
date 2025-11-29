@@ -1,4 +1,4 @@
-This repository contains a collection of links of interest to the [re:Invent 2024](https://reinvent.awsevents.com/) attendees of the chalk talk:
+This repository contains a collection of links of interest to the [re:Invent 2025](https://reinvent.awsevents.com/) attendees of the chalk talk:
 
 # NET210 | Network observability in AWS: Picking the right tool for the job
 
